@@ -1,0 +1,43 @@
+.page-laight{
+    background: #F9F6F1;
+    width: 1920px;
+    background-color: aqua;
+    
+}
+.wrapper{
+    background: #F9F6F1;
+    width: 1110px;
+    margin:0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: blueviolet;
+}
+
+.heder{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.nav{
+    display:flex;
+    list-style: none;
+    list-style-type: none;
+    padding-left:0 ;
+}
+
+.li1{
+    margin-right: 58px;
+}
+
+.link1{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.03em;
+color: #212121;
+}
